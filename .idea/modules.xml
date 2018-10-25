@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client-feign/eureka-client-feign.iml" filepath="$PROJECT_DIR$/eureka-client-feign/eureka-client-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client-first/eureka-client-first.iml" filepath="$PROJECT_DIR$/eureka-client-first/eureka-client-first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client-second/eureka-client-second.iml" filepath="$PROJECT_DIR$/eureka-client-second/eureka-client-second.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client-security/eureka-client-security.iml" filepath="$PROJECT_DIR$/eureka-client-security/eureka-client-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-discovery/eureka-discovery.iml" filepath="$PROJECT_DIR$/eureka-discovery/eureka-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-ribbon/eureka-ribbon.iml" filepath="$PROJECT_DIR$/eureka-ribbon/eureka-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-first/eureka-server-first.iml" filepath="$PROJECT_DIR$/eureka-server-first/eureka-server-first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-second/eureka-server-second.iml" filepath="$PROJECT_DIR$/eureka-server-second/eureka-server-second.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-security/eureka-server-security.iml" filepath="$PROJECT_DIR$/eureka-server-security/eureka-server-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudeureka.iml" filepath="$PROJECT_DIR$/springcloudeureka.iml" />
+    </modules>
+  </component>
+</project>

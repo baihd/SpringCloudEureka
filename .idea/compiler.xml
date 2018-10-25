@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-client" />
+        <module name="eureka-client-feign" />
+        <module name="eureka-client-first" />
+        <module name="eureka-client-second" />
+        <module name="eureka-client-security" />
+        <module name="eureka-discovery" />
+        <module name="eureka-ribbon" />
+        <module name="eureka-server" />
+        <module name="eureka-server-first" />
+        <module name="eureka-server-second" />
+        <module name="eureka-server-security" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="eureka-client" target="1.8" />
+      <module name="eureka-client-feign" target="1.8" />
+      <module name="eureka-client-first" target="1.8" />
+      <module name="eureka-client-second" target="1.8" />
+      <module name="eureka-client-security" target="1.8" />
+      <module name="eureka-discovery" target="1.8" />
+      <module name="eureka-ribbon" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka-server-first" target="1.8" />
+      <module name="eureka-server-second" target="1.8" />
+      <module name="eureka-server-security" target="1.8" />
+      <module name="springcloudeureka" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
